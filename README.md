@@ -4,3 +4,5 @@ Deep learning is used for segmentation. This is based on caffe. Yon can do it as
 linux:
 sudo apt-get install git 
 
+export PYTHONPATH=/home/francis/caffe/python
+
