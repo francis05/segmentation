@@ -25,3 +25,5 @@ Deep learning is used for segmentation. This is based on caffe. Yon can do it as
 # make pycaffe
 # export PYTHONPATH=/home/francis/caffe/python
 
+https://github.com/yosinski/deep-visualization-toolbox
+
