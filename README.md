@@ -25,6 +25,8 @@ Deep learning is used for segmentation. This is based on caffe. Yon can do it as
 # make runtest
 # python 接口
 # make pycaffe
+# matlab 接口
+# make matcaffe
 # gedit ~/.bashrc
 # 最后面添加：export PYTHONPATH=/home/francis/caffe/python
 # rm *~ 可考虑删除因修改而自动生成的备份文件
