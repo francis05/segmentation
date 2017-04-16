@@ -11,6 +11,7 @@ Deep learning is used for segmentation. This is based on caffe. Yon can do it as
 # sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev
 # sudo apt-get install python-lmdb
 
+# cd caffe
 # 配置文件的修改
 # cp Makefile.config.example Makefile.config
 # 修改需编译的选项)(针对ubuntu15.04以及之后的版本，之前的版本不用修改，用于解决无法找到hdf5.h等文件)
@@ -24,6 +25,7 @@ Deep learning is used for segmentation. This is based on caffe. Yon can do it as
 # make test -j4
 # make runtest
 # python 接口
+# sudo pip install -r python/requirements.txt
 # make pycaffe
 # matlab 接口
 # make matcaffe
