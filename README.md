@@ -10,7 +10,7 @@ Deep learning is used for segmentation. This is based on caffe. Yon can do it as
 # sudo apt-get install python-dev
 # sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev
 # sudo apt-get install python-lmdb
-
+# sudo apt-get install python-pip
 # cd caffe
 # 配置文件的修改
 # cp Makefile.config.example Makefile.config
